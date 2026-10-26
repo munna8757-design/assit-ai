@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Munna Assist AI",
+  "description": "Bengali virtual health assistant with 3D avatar, voice chat, anatomy education, AI studio, and mobile tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

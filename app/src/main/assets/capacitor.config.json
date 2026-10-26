@@ -1,0 +1,12 @@
+{
+	"appId": "com.drmunna.assistai",
+	"appName": "Dr. Munna Assist AI",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https",
+		"cleartext": false
+	},
+	"android": {
+		"allowMixedContent": false
+	}
+}
